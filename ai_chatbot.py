@@ -17,5 +17,5 @@ def chatbot():
         else:
             print("Chatbot: Sorry, I don't understand.")
 
-if __name__ == "__main__":
+if __name__ == " __main__ ":
     chatbot()
